@@ -1,8 +1,2 @@
 - 👋 Hi, I’m Ahmed Ezzat
-- 🌱 I’m currently learning Typescript and node js wait me 👌🏻😁
-
-
-<!---
-aezzat3/aezzat3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-  I am an Egyptian software engineer 🇪🇬 specialized mobile applications development 💻. I am currently working as a software engineer for Vodafone (_VOIS) company. I am looking forward to learn more and more and become better in my career and life. I’m currently learning Typescript and node js wait me 👌🏻😁
