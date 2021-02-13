@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Ahmed Ezzat
--  I am an Egyptian software engineer 🇪🇬 specialized mobile applications development 💻. I am currently working as a software engineer for Vodafone (_VOIS) company. I am looking forward to learn more and more and become better in my career and life. I’m currently learning Typescript and node js wait me 👌🏻😁
+- 👋 Hi, I’m Ahmed Ezzat, specialized mobile applications development. I am currently working as a software engineer for Vodafone (_VOIS) company. I am looking forward to learn more and more and become better in my career and life. I’m currently learning Typescript and node js wait me 👌🏻😁
